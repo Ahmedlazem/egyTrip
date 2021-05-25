@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007853083807",
+    "firebase_url": "https://egytrip-eb802.firebaseio.com",
+    "project_id": "egytrip-eb802",
+    "storage_bucket": "egytrip-eb802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007853083807:android:80cf35feb073b0230696aa",
+        "android_client_info": {
+          "package_name": "com.lazemco.egytrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007853083807-l0vqag5l7qqoatekomdoj0nqcfpl4t99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazemco.egytrip",
+            "certificate_hash": "7c13dcf70511781f88dac993f598da11dc51187c"
+          }
+        },
+        {
+          "client_id": "1007853083807-d2tsmcismkqsfvig3dhph5435oegcfjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnLUt7auZBSc69D0nD2oQFQl5tAG7c1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007853083807-d2tsmcismkqsfvig3dhph5435oegcfjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
